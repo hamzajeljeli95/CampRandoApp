@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">CampRandoApp</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="home">Home</string>
+    <string name="nav_sign_out">Sign Out</string>
+    <string name="nav_user_profile">User profile</string>
+    <string name="nav_add_evt"> add Event</string>
+    <string name="settings">Settings</string>
+    <string name="title_activity_another">Home</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fb_app_id">188908998657317</string>
+    <string name="fb_login_protocol_scheme">fb188908998657317</string>
+    <string name="rondonner">Rondonner</string>
+    <string name="camping">Camping</string>
+    <string name="typeevenement">Type Evenement</string>
+    <string name="nothing_clicked">choicire un type d\'evenement</string>
+    <string name="choix_du_date">choix du date</string>
+    <string name="date_evenement">Date evenement</string>
+    <string name="choix_du_temps">Choix du temps</string>
+    <string name="heur_fin">heur fin</string>
+    <string name="origine_et_la_distination">origine et la distination</string>
+    <string name="origine">origine</string>
+    <string name="destination">destination</string>
+    <string name="valider_evt">valider</string>
+    <string name="title_activity_acceuil_">Acceuil_Activity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="date_button">Date</string>
+    <string name="time_button">Time</string>
+    <string name="date_picker">datePicker</string>
+    <string name="time_picker">timePicker</string>
+    <string name="date">"Date: "</string>
+    <string name="time">"Time: "</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="share_via">Partager via</string>
+    <string name="please_wait">please_wait</string>
+    <string name="loading">loading</string>
+    <string name="hintcnx"><![CDATA[<font color=\"#ffffff\">Check your internet connection and try again.<</font>]]></string>
+    <string name="participer">Participer</string>
+    <string name="bus">bus</string>
+    <string name="train">train</string>
+</resources>
